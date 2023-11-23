@@ -28,7 +28,7 @@ The design incorporates a range of cloud services for efficient video management
 * User Authentication: Integrating Firebase Auth for secure and convenient user authentication using Google Sign In.
 ## Detailed Design Aspects
 
-1. User Registration and Management:  Leveraging Firebase Auth for user sign-up via Google accounts, with Firestore to maintain additional user details.
+1. ** User Registration and Management: **  Leveraging Firebase Auth for user sign-up via Google accounts, with Firestore to maintain additional user details.
 2. Secure Video Upload Process: Ensuring authenticated video uploads through signed URLs provided by Google Cloud Storage, managed via Firebase Functions.
 3. Asynchronous Video Processing: Utilizing Cloud Pub/Sub as a messaging queue for managing video processing workloads and ensuring scalability.
 ## Considerations and Limitations
