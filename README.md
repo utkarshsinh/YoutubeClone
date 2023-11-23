@@ -2,10 +2,10 @@
 
 # Simplified YouTube-Like Platform Design Overview
 ## Introduction
-In my Full Stack Development course, I embarked on creating a simplified version of a platform akin to YouTube. This project's intent was to replicate the fundamental features of YouTube, focusing on a basic yet functional framework rather than an exact replica.
+In my Full Stack Development learning, I embarked on creating a simplified version of a platform akin to YouTube. This project's intent was to replicate the fundamental features of YouTube, focusing on a basic yet functional framework rather than an exact replica.
 
 ## Objective
-The primary objective was to learn and implement the core features of a video-sharing platform, with an emphasis on simplicity and scalability aspects, rather than creating a fully-fledged, production-level application.
+My primary objective was to learn and implement the core features of a video-sharing platform, with an emphasis on simplicity and scalability aspects, rather than creating a fully-fledged, production-level application.
 
 ## Background
 Inspired by YouTube's functionality, which includes a range of complex features like video sharing, viewing, rating, and commenting by a vast user base, this project narrows its focus. The primary functionalities developed were video uploading and viewing.
