@@ -44,4 +44,4 @@ Included are references to various technologies used, such as Firebase Auth, Clo
 * Using Pub/Sub with Cloud Run: https://cloud.google.com/run/docs/tutorials/pubsub
 
 ## Credit
-[Neetcode](https://neetcode.io/)https://neetcode.io/
+[Neetcode](https://neetcode.io/)
