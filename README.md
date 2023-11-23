@@ -36,3 +36,9 @@ The design acknowledges certain limitations, like Cloud Run's request timeout an
 
 ## References and Further Reading
 Included are references to various technologies used, such as Firebase Auth, Cloud Storage, and Cloud Run, providing a foundation for understanding the underlying technologies of this project.
+
+* Firebase Auth: https://firebase.google.com/docs/auth
+* Cloud Storage Signed URLs: https://cloud.google.com/storage/docs/access-control/signed-urls
+* Pub/Sub Push subscriptions: https://cloud.google.com/pubsub/docs/push
+* Using Pub/Sub with Cloud Storage: https://cloud.google.com/storage/docs/pubsub-notifications
+* Using Pub/Sub with Cloud Run: https://cloud.google.com/run/docs/tutorials/pubsub
