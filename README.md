@@ -42,3 +42,6 @@ Included are references to various technologies used, such as Firebase Auth, Clo
 * Pub/Sub Push subscriptions: https://cloud.google.com/pubsub/docs/push
 * Using Pub/Sub with Cloud Storage: https://cloud.google.com/storage/docs/pubsub-notifications
 * Using Pub/Sub with Cloud Run: https://cloud.google.com/run/docs/tutorials/pubsub
+
+## Credit
+Neetcode
