@@ -18,6 +18,7 @@ Inspired by YouTube's functionality, which includes a range of complex features 
 * Ability for all users to view a list of uploaded videos and watch individual videos.
 ## High-Level Design Overview
 The design incorporates a range of cloud services for efficient video management and streaming:
+![image](https://github.com/utkarshsinh/YoutubeClone/assets/107430204/29a5258f-0df3-4e53-9cb1-9dc4596be79c)
 
 * Video Storage: Utilizing Google Cloud Storage for both raw and processed video storage, ensuring scalability and cost-effectiveness.
 * Video Upload Management: Implementing Cloud Pub/Sub for durable video upload events and asynchronous processing.
